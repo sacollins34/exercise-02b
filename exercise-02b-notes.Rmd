@@ -11,4 +11,16 @@ Side note:
 - A question I have is whether or not I can have this pop up every time on its own or do I have 
 to manually do this every time??
 
-JELLO
+# Titles: Less Number Signs Means Larger Title
+## Titles: 
+### Titles: 
+#### Titles: More Number Signs Means Smaller Title
+
+
+# Thoughts on creating Repositories 
+- It's definitely way easier to just create the depository in Github first and then adding to RStudio first versus doing it the other way around. 
+- I can **NOT** get the *usethis::use_github(protocol="https")* code to work. 
+- I keep getting an error saying "*Can't find any local branches.Do you need to make your first commit?*"
+- If I just add a branch then its like completing Connecting a Local Repo to GitHub: Option 2
+
+

@@ -1,0 +1,13 @@
+---
+title: "Exercise-02b Notes"
+author: "Stephen Collins"
+output: html_document
+date: "1.25.2025 - `r format(Sys.time(), '%m.%d.%Y')`"
+---
+Side note: 
+
+- I started to add a author line
+- I added the date for when the doc was created but then I added a code for when it is last edited. 
+- A question I have is whether or not I can have this pop up every time on its own or do I have 
+to manually do this every time??
+
